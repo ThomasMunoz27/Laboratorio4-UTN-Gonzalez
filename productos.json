@@ -1,0 +1,22 @@
+[
+  {
+    "producto": "CocalCola",
+    "precio": 1999.99,
+    "cantidad": 50
+  },
+  {
+    "producto": "Fernet Bronca",
+    "precio": 2000,
+    "cantidad": 40
+  },
+  {
+    "producto": "Pasta dental",
+    "precio": 499.99,
+    "cantidad": 24
+  },
+  {
+    "producto": "lol omg",
+    "precio": 2,
+    "cantidad": 3
+  }
+]
